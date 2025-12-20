@@ -14,7 +14,7 @@ Final-Year Computer Science Student • Data Science & AI Enthusiastic
   🔭 I’m currently building my FYP: <b>AIU Smart Feedback System</b> (NLP + Django + React + PostgreSQL)<br/>
   🌱 Currently learning: <b>Deep Learning</b>, <b>NLP</b>, and <b>Data Visualization</b><br/>
   🧠 Interested in: <b>Explainable AI (XAI)</b>, Turning systems to real-world solutions<br/>
-  👨‍💻 Projects: <a href="https://github.com/YOUR_USERNAME?tab=repositories" target="_blank">github.com/YOUR_USERNAME</a><br/>
+  👨‍💻 Projects: <a href="https://github.com/YOUR_USERNAME?tab=repositories" target="_blank">github.com/Alamodi123</a><br/>
   📄 Resume: <a href="https://drive.google.com/file/d/1lA0CKVrVpiGsIpz0yEDpe6c228Ry9-_s/view?usp=sharing" target="_blank">View here</a><br/>
   📫 Reach me: <b>abdualrahmanalamodi@gmail.com</b>
 </p>
@@ -107,12 +107,6 @@ Final-Year Computer Science Student • Data Science & AI Enthusiastic
 </p>
 
 <hr/>
-
-<h3 align="left">📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <b>Open to internships • collaborations • real-world projects</b><br/>
