@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">
-Final-Year Computer Science Student • Data Science & AI • NLP • Full-Stack + ML Systems
+Final-Year Computer Science Student • Data Science & AI Enthusiastic 
 </h3>
 
 <p align="center">
