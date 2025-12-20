@@ -30,7 +30,7 @@ Final-Year Computer Science Student • Data Science & AI Enthusiastic
   </a>
 </p>
 
-<h3 align="left">🧩 What I do (quick)</h3>
+<h3 align="left">🧩 What I do </h3>
 <ul>
   <li>Build end-to-end ML/NLP systems: <b>data → model → explainability → deployment</b></li>
   <li>Create dashboards for insights (Tableau/Power BI / web dashboards)</li>
